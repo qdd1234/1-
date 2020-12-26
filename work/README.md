@@ -3,7 +3,7 @@
 # YOLOv4-Tiny PLUS 算法
 
 #  模型所在文件夹
-YOLOv4-Tiny PLUS在work/model/yolov4
+YOLOv4-Tiny PLUS在work/model/yolov4，此外
 work/model/yolov4_1是基于paddle复现的yolov4源码
 
 
