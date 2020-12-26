@@ -2,6 +2,10 @@
 
 # YOLOv4-Tiny PLUS 算法
 
+#  模型所在文件夹
+YOLOv4-Tiny PLUS在work/model/yolov4
+work/model/yolov4_1是基于paddle复现的yolov4源码
+
 
 ## 训练
 安装pycocotools依赖、解压COCO2017数据集：
